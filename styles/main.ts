@@ -1,6 +1,6 @@
 import { StyleSheet } from "react-native";
 
-export const global = StyleSheet.create({
+export const style = StyleSheet.create({
   container: { flex: 1, padding: 20, backgroundColor: "#fff" },
   input: {
     borderWidth: 1,
